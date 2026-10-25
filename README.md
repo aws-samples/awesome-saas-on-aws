@@ -67,6 +67,7 @@
   - [Gunnar Grosch](https://www.youtube.com/c/GunnarGrosch)
   - [Show Me Saas](https://www.youtube.com/channel/UCIlTJONagGxjSliFTTIehJA)
   - [SaaS Playlist](https://www.youtube.com/playlist?list=PLKnVwO5e7SXQ3K4pFnF66AlZ-ljLAIxHB)
+  - [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Repositories of Note
 
